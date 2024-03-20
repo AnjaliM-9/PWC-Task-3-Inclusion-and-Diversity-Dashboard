@@ -1,6 +1,5 @@
 # PWC-Task-3-Inclusion-and-Diversity-Dashboard
 ## Problem Statement:
-Given task:
 Visualizing and defining KPIs in hiring, promotion, performance and ratings, turnover , executive gender balance , age groups.
 Generating a visualisation for the HR manager that reflect all required KPI's in a dashboard.
 Calculating Following measures for defining required KPIs:
